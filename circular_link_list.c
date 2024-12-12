@@ -82,7 +82,7 @@ int main()
     int choice, data, key, found;
     do
     {
-        printf("\nDoubly Linked List Operations:\n");
+        printf("\nCircular Linked List Operations:\n");
         printf("1. Insert\n2. Delete\n3. Display\n4. Exit\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
