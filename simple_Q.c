@@ -1,6 +1,5 @@
-#include<conio.h>
+
 #include<stdio.h>
-#include<process.h>
 #include<stdlib.h>
 #define MAX 10
 int arr[MAX];
